@@ -14,3 +14,4 @@ List of publicly available algos for streak.tech
 2. **Niftybees Buy** - https://public.streak.tech/in/3VG2i9vVAF
 3. **Nifty Strangle** - https://public.streak.tech/in/9hVGzGPA1z
 4. **Bank Nifty Put Buy** - http://public.streak.tech/in/LY6IpUeOWl
+5. **USDINR Buy** - https://public.streak.tech/in/hUr8aXd1Kw
