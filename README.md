@@ -7,7 +7,7 @@ List of publicly available algos for streak.tech
 3. **Expiry OTM Selling** - https://public.streak.tech/in/cOCkDoHzh9
 4. **Zero or Hero** - https://public.streak.tech/in/MdMOYNKyIR
 
-### Please reshare if you were able to improve the algos above.
+###### Please reshare if you were able to improve the algos above.
 
 ## Publicly Shared Streak Algos, Which you can copy:
 1. **Nifty Short Straddle** - https://public.streak.tech/in/lYkEUB98Jo
