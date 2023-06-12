@@ -8,6 +8,7 @@ List of publicly available algos for streak.tech
 4. **Zero or Hero** - https://public.streak.tech/in/MdMOYNKyIR
 5. **Nifty & Bank OTM Buy** - https://public.streak.tech/in/ws4ply0ELg
 6. **Nifty OI Volume Buy** - https://public.streak.tech/in/Wa9EtV9GvP
+7. **Bank OI Volume Buy** - https://public.streak.tech/in/1YJUZspiZl
 
 ###### Please reshare if you were able to improve the algos above.
 
