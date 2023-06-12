@@ -6,6 +6,7 @@ List of publicly available algos for streak.tech
 2. **Nifty & Bank Nifty ATM Buying** - https://public.streak.tech/in/Rsb9naKIwQ
 3. **Expiry OTM Selling** - https://public.streak.tech/in/cOCkDoHzh9
 4. **Zero or Hero** - https://public.streak.tech/in/MdMOYNKyIR
+5. **Nifty & Bank OTM Buying** - https://public.streak.tech/in/ws4ply0ELg
 
 ###### Please reshare if you were able to improve the algos above.
 
