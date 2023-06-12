@@ -10,7 +10,7 @@ List of publicly available algos for streak.tech
 
 ###### Please reshare if you were able to improve the algos above.
 
-## Publicly Shared Streak Algos, Which you can copy:
+## Algos by other users
 1. **Nifty Short Straddle** - https://public.streak.tech/in/lYkEUB98Jo
 2. **Niftybees Buy** - https://public.streak.tech/in/3VG2i9vVAF
 3. **Nifty Strangle** - https://public.streak.tech/in/9hVGzGPA1z
